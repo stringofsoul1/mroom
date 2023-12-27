@@ -1,5 +1,0 @@
-#!/usr/bin/with-contenv bashio
-
-bashio::log.info 'Start SnapServer' 
-exec  /usr/bin/snapserver < /dev/null
-
